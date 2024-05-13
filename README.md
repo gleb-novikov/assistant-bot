@@ -4,7 +4,7 @@
 
 Проект ассистента в интерфейсе Telegram-бота с Open Source LLM для решения различных задач пользователя.
 
-[Telegram-бот](t.me/aphrodite_ai_bot)
+[Telegram-бот](https://t.me/aphrodite_ai_bot)
 
 ## Целевая аудитория
 
